@@ -1,16 +1,19 @@
-package com.example.antonfirst;{
+package com.example.antonfirst;
 
 
 public class AntonFirst {
 
-    int i = 0;
-        while (i < 10);
-    {
-        i++;
-        System.out.println(i);
-    }
-}
-}
+//    int i = 0;
+//        while (i < 10);
+//
+//    {
+//        i++;
+//        if (i%2 == 0) {
+//            System.out.println(i);
+//        }
+//    }
+//}
+
 
 
 
